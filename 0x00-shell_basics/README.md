@@ -1,1 +1,1 @@
-Script that displays content list of directory
+Script that displace what changes directory directory
