@@ -1,0 +1,1 @@
+#This project is About shell ,init files,varaibles abd expansion
