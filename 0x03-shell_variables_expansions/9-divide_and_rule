@@ -1,2 +1,2 @@
 #!/bin/bash
- F=$( echo $POWER $DIVIDE | awk ' {print $POWER/$DIVIDE}')
+echo "$(($POWER"/"$DIVIDE))"
